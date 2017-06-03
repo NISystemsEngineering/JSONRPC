@@ -35,18 +35,10 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
-				<Item Name="error.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/error/error.lvclass"/>
 				<Item Name="i3-json.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/i3 JSON/i3-json.lvlib"/>
-				<Item Name="id.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/id/id.lvclass"/>
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
-				<Item Name="JSONable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/JSONable/JSONable.lvclass"/>
-				<Item Name="JSONRPC Server.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/Server/JSONRPC Server.lvclass"/>
-				<Item Name="params.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/params/params.lvclass"/>
-				<Item Name="Request.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/Request/Request.lvclass"/>
-				<Item Name="Response.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/Response/Response.lvclass"/>
-				<Item Name="result.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/A Better RPC/Classes/New folder/result.lvclass"/>
 				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
@@ -63,6 +55,14 @@
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
 			</Item>
+			<Item Name="error.lvclass" Type="LVClass" URL="../../../Classes/error/error.lvclass"/>
+			<Item Name="id.lvclass" Type="LVClass" URL="../../../Classes/id/id.lvclass"/>
+			<Item Name="JSONable.lvclass" Type="LVClass" URL="../../../Classes/JSONable/JSONable.lvclass"/>
+			<Item Name="JSONRPC Server.lvclass" Type="LVClass" URL="../../../Classes/Server/JSONRPC Server.lvclass"/>
+			<Item Name="params.lvclass" Type="LVClass" URL="../../../Classes/params/params.lvclass"/>
+			<Item Name="Request.lvclass" Type="LVClass" URL="../../../Classes/Request/Request.lvclass"/>
+			<Item Name="Response.lvclass" Type="LVClass" URL="../../../Classes/Response/Response.lvclass"/>
+			<Item Name="result.lvclass" Type="LVClass" URL="../../../Classes/New folder/result.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
