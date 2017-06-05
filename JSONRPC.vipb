@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-06-05 11:23:59" Creator="Tanner Blair" Comments="" ID="6a4bf0ba5e43744d076e0d5121710d31">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-06-05 11:36:35" Creator="Tanner Blair" Comments="" ID="e9420644048a88f63c8f4800d5b8e6f6">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_JSONRPC</Package_File_Name>
-    <Library_Version>1.0.0.10</Library_Version>
+    <Library_Version>1.0.0.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -133,7 +133,7 @@
         <Path>JSONable Tests.vi</Path>
       </Exclusions>
       <Exclusions>
-        <Path>ABRPC.lvproj</Path>
+        <Path>JSON RPC.lvproj</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>Source\license.txt</License_Agreement_Filepath>
@@ -388,7 +388,7 @@
         <Path>Source\Classes\Server\Check Server Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B15CF0449D028DB716971E9E4E392F4D</GUID>
+      <GUID>FA18E7D23F1E3B0815720ADD41E2BA33</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

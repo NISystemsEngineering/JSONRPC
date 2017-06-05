@@ -10,7 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="abrpc" Type="Web Service">
+		<Item Name="Client Example.vi" Type="VI" URL="../Client Example.vi">
+			<Property Name="marked" Type="Int">0</Property>
+		</Item>
+		<Item Name="jsonrpc" Type="Web Service">
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
@@ -50,9 +53,6 @@
 					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 			</Item>
-		</Item>
-		<Item Name="Client Example.vi" Type="VI" URL="../Client Example.vi">
-			<Property Name="marked" Type="Int">0</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
