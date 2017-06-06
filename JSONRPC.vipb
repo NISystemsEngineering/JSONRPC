@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-06-05 15:51:44" Creator="Tanner Blair" Comments="" ID="67a6b2d9e249143cfe5133de719149a1">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-06-06 10:44:27" Creator="Tanner Blair" Comments="" ID="7c3a1ea669ddfa9970eb93feea399111">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_JSONRPC</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.0.0.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -388,7 +388,7 @@
         <Path>Source\Classes\Server\Close Server Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C54D27D667A3DB32225E2EB3F81FA4B1</GUID>
+      <GUID>5A1B734F98320099106FFA3A80A7B73A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
