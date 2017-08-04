@@ -10,6 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Methods" Type="Folder">
+			<Item Name="JSONRPC VI Template.vit" Type="VI" URL="../methods/JSONRPC VI Template.vit"/>
+			<Item Name="subtract.vi" Type="VI" URL="../methods/subtract.vi"/>
+		</Item>
 		<Item Name="Client Example.vi" Type="VI" URL="../Client Example.vi">
 			<Property Name="marked" Type="Int">0</Property>
 		</Item>
@@ -54,8 +58,10 @@
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="Open VI Reference.vi" Type="VI" URL="../Open VI Reference.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
