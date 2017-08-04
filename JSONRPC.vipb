@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-07-10 12:33:09" Creator="Tanner Blair" Comments="" ID="c9aace61007977e26bd1788eb6de0093">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-08-04 15:13:57" Creator="Tanner Blair" Comments="" ID="9dddab2993b9a9420ae6e0a9ac281cf2">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_JSONRPC</Package_File_Name>
     <Library_Version>1.0.0.22</Library_Version>
@@ -141,7 +141,7 @@
         <Path>JSON RPC.lvproj</Path>
       </Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath>Source\license.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>license.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -393,7 +393,7 @@
         <Path>Source\Client</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>187BC664E4DBEABDE22C404D6E1BEEA4</GUID>
+      <GUID>F01374CC97A51270CA924C55AC3A6CBB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -456,7 +456,7 @@
         <Path>Source\Classes\Server\Format Client Request.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>120A56C7022927E7614856BC3F992B31</GUID>
+      <GUID>80F7D3C4BBCB84160D615C7DB75BA75F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
