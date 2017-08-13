@@ -26,10 +26,24 @@
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="i3-json.lvlib" Type="Library" URL="/&lt;vilib&gt;/rajsite/i3-json/i3-json.lvlib"/>
+				<Item Name="Create Value.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Create Value.vi"/>
+				<Item Name="Create Value - String.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Create Value Files/Create Value - String.vi"/>
+				<Item Name="Create Value - Numeric.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Create Value Files/Create Value - Numeric.vi"/>
+				<Item Name="Create Value - Null.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Create Value Files/Create Value - Null.vi"/>
+				<Item Name="Create Value - Object.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Create Value Files/Create Value - Object.vi"/>
+				<Item Name="Add Object Parameter.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Add Object Parameter.vi"/>
+				<Item Name="Add Object Parameter - Numeric.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Add Object Parameter Files/Add Object Parameter - Numeric.vi"/>
+				<Item Name="Add Object Parameter - String.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Add Object Parameter Files/Add Object Parameter - String.vi"/>
+				<Item Name="Create Value - 1D Array Double.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Create Value Files/Create Value - 1D Array Double.vi"/>
+				<Item Name="Add Object Parameter - Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Add Object Parameter Files/Add Object Parameter - Boolean.vi"/>
+				<Item Name="Add Object Parameter - Object.vi" Type="VI" URL="/&lt;vilib&gt;/rajsite/i3-json/JSON Generation/Add Object Parameter Files/Add Object Parameter - Object.vi"/>
+				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/LVJSON.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
