@@ -62,13 +62,14 @@
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Errors.ctl" Type="VI" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/Errors/Errors.ctl"/>
-				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/LVJSON.lvlib"/>
+				<Item Name="Errors.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/Errors/Errors.ctl"/>
+				<Item Name="JSON Null.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/JSON Data Classes/JSON Datatype/JSON Null.lvclass"/>
+				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
-				<Item Name="Token Type.ctl" Type="VI" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/JSON Data Classes/JSON Helper/Parsing/Token Type.ctl"/>
+				<Item Name="Token Type.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/JSON Data Classes/JSON Helper/Parsing/Token Type.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
