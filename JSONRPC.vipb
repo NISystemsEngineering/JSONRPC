@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-08-17 13:54:46" Creator="Tanner Blair" Comments="" ID="f3efd259a2745964ea1340b128db5e8e">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2017-08-31 14:26:49" Creator="Tanner Blair" Comments="" ID="1fede6a732e1b13b3a67fc673aa7dbd0">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_JSONRPC</Package_File_Name>
-    <Library_Version>1.0.0.28</Library_Version>
+    <Library_Version>1.0.0.32</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -372,7 +372,7 @@
         <Path>Source\Client</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E71272E536935B09FB197F96B653D81F</GUID>
+      <GUID>E29B54EC30AD9473CACC48A2A91896D9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -435,7 +435,7 @@
         <Path>Source\Classes\Server\Format Client Request.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3A8668DA58B787C1BD35AFC728B2ECE0</GUID>
+      <GUID>36832F42D4F53A35AD26980059323F71</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
