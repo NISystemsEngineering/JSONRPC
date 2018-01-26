@@ -12,7 +12,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Classes" Type="Folder">
-			<Item Name="JSONable.lvclass" Type="LVClass" URL="../Classes/JSONable/JSONable.lvclass"/>
 			<Item Name="error.lvclass" Type="LVClass" URL="../Classes/error/error.lvclass"/>
 			<Item Name="id.lvclass" Type="LVClass" URL="../Classes/id/id.lvclass"/>
 			<Item Name="params.lvclass" Type="LVClass" URL="../Classes/params/params.lvclass"/>
