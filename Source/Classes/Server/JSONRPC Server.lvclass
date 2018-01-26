@@ -31,7 +31,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Error" Type="Folder">
 			<Item Name="From Request" Type="Folder">
-				<Item Name="Add Response (Custom Error from Request).vi" Type="VI" URL="../Add Response (Custom Error from Request).vi">
+				<Item Name="server.Add Response (Custom Error from Request).vi" Type="VI" URL="../server.Add Response (Custom Error from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'?!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!11$$`````"WVF=X.B:W5!)E"Q!"Y!!"%05G6R&gt;76T&gt;#ZM&gt;G.M98.T!!&gt;3:8&amp;V:8.U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-%"Q!"Y!!#!-4&amp;:+5U^/,GRW&lt;'FC%5J44UYA4H6M&lt;#ZM&gt;G.M98.T!!!%:'&amp;U91!!,%"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!#6.F=H:F=C"J&lt;A"B!0!!$!!$!!1!"1!'!!=!"1!"!!A!#1!&amp;!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!)1!!!!!!!!!"!!!!!1!!!!#A!!!!!!!!!)!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -40,7 +40,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 				</Item>
-				<Item Name="Add Response (Parse Error from Request).vi" Type="VI" URL="../Add Response (Parse Error from Request).vi">
+				<Item Name="server.Add Response (Parse Error from Request).vi" Type="VI" URL="../server.Add Response (Parse Error from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!C1(!!(A!!%1^3:8&amp;V:8.U,GRW9WRB=X-!"V*F=86F=X1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"Q!)!!5!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -49,7 +49,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 				</Item>
-				<Item Name="Add Response (Invalid Request from Request).vi" Type="VI" URL="../Add Response (Invalid Request from Request).vi">
+				<Item Name="server.Add Response (Invalid Request from Request).vi" Type="VI" URL="../server.Add Response (Invalid Request from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!C1(!!(A!!%1^3:8&amp;V:8.U,GRW9WRB=X-!"V*F=86F=X1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"Q!)!!5!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -58,7 +58,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 				</Item>
-				<Item Name="Add Response (Method Not Found from Request).vi" Type="VI" URL="../Add Response (Method Not Found from Request).vi">
+				<Item Name="server.Add Response (Method Not Found from Request).vi" Type="VI" URL="../server.Add Response (Method Not Found from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!C1(!!(A!!%1^3:8&amp;V:8.U,GRW9WRB=X-!"V*F=86F=X1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"Q!)!!5!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -67,7 +67,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 				</Item>
-				<Item Name="Add Response (Invalid Params from Request).vi" Type="VI" URL="../Add Response (Invalid Params from Request).vi">
+				<Item Name="server.Add Response (Invalid Params from Request).vi" Type="VI" URL="../server.Add Response (Invalid Params from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!C1(!!(A!!%1^3:8&amp;V:8.U,GRW9WRB=X-!"V*F=86F=X1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"Q!)!!5!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -76,7 +76,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 				</Item>
-				<Item Name="Add Response (Internal Error from Request).vi" Type="VI" URL="../Add Response (Internal Error from Request).vi">
+				<Item Name="server.Add Response (Internal Error from Request).vi" Type="VI" URL="../server.Add Response (Internal Error from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!C1(!!(A!!%1^3:8&amp;V:8.U,GRW9WRB=X-!"V*F=86F=X1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"Q!)!!5!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -85,7 +85,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 				</Item>
-				<Item Name="Add Response (Server Error from Request).vi" Type="VI" URL="../Add Response (Server Error from Request).vi">
+				<Item Name="server.Add Response (Server Error from Request).vi" Type="VI" URL="../server.Add Response (Server Error from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!&gt;1!-!&amp;W.P:'5A+#UT-D!Q-#"U&lt;S!N-T)Q/4EJ!#*!=!!?!!!2$V*F=86F=X1O&lt;(:D&lt;'&amp;T=Q!(5G6R&gt;76T&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$"!=!!?!!!A$%R73F.04CZM&gt;GRJ9B&amp;+5U^/)%ZV&lt;'QO&lt;(:D&lt;'&amp;T=Q!!"'2B&gt;'%!!#R!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!F4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"Q!)!!E!"1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!)!!!!%!!!!!I!!!!!!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -95,7 +95,7 @@
 					<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 				</Item>
 			</Item>
-			<Item Name="Add Response (Custom Error).vi" Type="VI" URL="../Add Response (Custom Error).vi">
+			<Item Name="server.Add Response (Custom Error).vi" Type="VI" URL="../server.Add Response (Custom Error).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'?!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!11$$`````"WVF=X.B:W5!%E!Q`````QBJ:#"W97RV:1!!%%!Q`````Q&gt;K=W^O=H"D!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-%"Q!"Y!!#!-4&amp;:+5U^/,GRW&lt;'FC%5J44UYA4H6M&lt;#ZM&gt;G.M98.T!!!%:'&amp;U91!!,%"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!#6.F=H:F=C"J&lt;A"B!0!!$!!$!!1!"1!'!!=!#!!"!!E!#A!&amp;!!M!$!-!!(A!!!U)!!!*!!!!!!!!!!U,!!)1!!!!%!!!!"!!!!))!!!!#A!!!!!!!!!)!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -104,7 +104,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="Add Response (Parse Error).vi" Type="VI" URL="../Add Response (Parse Error).vi">
+			<Item Name="server.Add Response (Parse Error).vi" Type="VI" URL="../server.Add Response (Parse Error).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!31$$`````#'FE)(:B&lt;(6F!!!11$$`````"WJT&lt;WZS='-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!(!!5!#!!*!!5!#A!,!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!1!!!!!!!!!AA!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -113,7 +113,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="Add Response (Invalid Request).vi" Type="VI" URL="../Add Response (Invalid Request).vi">
+			<Item Name="server.Add Response (Invalid Request).vi" Type="VI" URL="../server.Add Response (Invalid Request).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!31$$`````#'FE)(:B&lt;(6F!!!11$$`````"WJT&lt;WZS='-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!(!!5!#!!*!!5!#A!,!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!1!!!!!!!!!AA!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -122,7 +122,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="Add Response (Method Not Found).vi" Type="VI" URL="../Add Response (Method Not Found).vi">
+			<Item Name="server.Add Response (Method Not Found).vi" Type="VI" URL="../server.Add Response (Method Not Found).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!31$$`````#'FE)(:B&lt;(6F!!!11$$`````"WJT&lt;WZS='-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!(!!5!#!!*!!5!#A!,!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!1!!!!!!!!!AA!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -131,7 +131,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="Add Response (Invalid Params).vi" Type="VI" URL="../Add Response (Invalid Params).vi">
+			<Item Name="server.Add Response (Invalid Params).vi" Type="VI" URL="../server.Add Response (Invalid Params).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!31$$`````#'FE)(:B&lt;(6F!!!11$$`````"WJT&lt;WZS='-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!(!!5!#!!*!!5!#A!,!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!1!!!!!!!!!AA!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -140,7 +140,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="Add Response (Internal Error).vi" Type="VI" URL="../Add Response (Internal Error).vi">
+			<Item Name="server.Add Response (Internal Error).vi" Type="VI" URL="../server.Add Response (Internal Error).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!31$$`````#'FE)(:B&lt;(6F!!!11$$`````"WJT&lt;WZS='-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!2E982B!!!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"1!(!!5!#!!*!!5!#A!,!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!1!!!!!!!!!AA!!!!+!!!!!!!!!!A!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -149,7 +149,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="Add Response (Server Error).vi" Type="VI" URL="../Add Response (Server Error).vi">
+			<Item Name="server.Add Response (Server Error).vi" Type="VI" URL="../server.Add Response (Server Error).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'L!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!31$$`````#'FE)(:B&lt;(6F!!!&gt;1!-!&amp;W.P:'5A+#UT-D!Q-#"U&lt;S!N-T)Q/4EJ!""!-0````](;H.P&lt;H*Q9Q!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$"!=!!?!!!A$%R73F.04CZM&gt;GRJ9B&amp;+5U^/)%ZV&lt;'QO&lt;(:D&lt;'&amp;T=Q!!"'2B&gt;'%!!#R!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!F4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!5!"A!&amp;!!=!#!!*!!I!"1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!"!!!!!1!!!##!!!!!I!!!!!!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -161,7 +161,7 @@
 		</Item>
 		<Item Name="Result" Type="Folder">
 			<Item Name="From Request" Type="Folder">
-				<Item Name="Add Response (Result from Request).vi" Type="VI" URL="../Add Response (Result from Request).vi">
+				<Item Name="server.Add Response (Result from Request).vi" Type="VI" URL="../server.Add Response (Result from Request).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'1!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!C1(!!(A!!%1^3:8&amp;V:8.U,GRW9WRB=X-!"V*F=86F=X1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!&gt;+5U^/)'FO!#R!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!F4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!(!!A!"1!*!!I$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!%!!!!!I!!!!!!!!!%A!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -171,7 +171,7 @@
 					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 				</Item>
 			</Item>
-			<Item Name="Add Response (Result).vi" Type="VI" URL="../Add Response (Result).vi">
+			<Item Name="server.Add Response (Result).vi" Type="VI" URL="../server.Add Response (Result).vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'1!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!31$$`````#'FE)(:B&lt;(6F!!!11$$`````"WJT&lt;WZS='-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!&gt;+5U^/)'FO!#R!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!F4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!5!"A!&amp;!!=!"1!)!!E!"1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!"!!!!!!!!!##!!!!!I!!!!!!!!!%A!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -181,7 +181,7 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
 		</Item>
-		<Item Name="Add Response to BST.vi" Type="VI" URL="../Add Response to BST.vi">
+		<Item Name="server.Add Response to BST.vi" Type="VI" URL="../server.Add Response to BST.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'I!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^S:8.Q&lt;WZT:3"T&gt;(*J&lt;G=!$E!B#(*F='RB9W6E!!!O1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!+5W6S&gt;G6S)'^V&gt;!!!"!!!!$*!=!!?!!!A$%R73F.04CZM&gt;GRJ9B&amp;+5U^/)%ZV&lt;'QO&lt;(:D&lt;'&amp;T=Q!!"UJ44UYA;7Y!#E!B"76S=G^S!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!Q`````QBJ:#"W97RV:1!!%%!Q`````Q&gt;K=W^O=H"D!#R!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!F4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!5!"A!(!!=!#!!*!!I!#Q!-!!U$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!+!!!!#!!!!!I!!!!1!!!##!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -194,7 +194,7 @@
 	<Item Name="API" Type="Folder">
 		<Item Name="Client VIs" Type="Folder">
 			<Item Name="Parse Response VIs" Type="Folder">
-				<Item Name="Parse Response (String).vi" Type="VI" URL="../Parse Response (String).vi">
+				<Item Name="server.Parse Response (String).vi" Type="VI" URL="../server.Parse Response (String).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$ERB9F:*26=A28*S&lt;X)`!!!/1$$`````"8:B&lt;(6F!!1!!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!(%!Q`````R*3:8.Q&lt;WZT:3"4&gt;(*J&lt;G=A37Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"A!'!!9!"A!(!!9!#!!'!Q!!?!!!$1A!!!E!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!!!!!!!!!%!#1!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -203,7 +203,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
-				<Item Name="Parse Response (JSON).vi" Type="VI" URL="../Parse Response (JSON).vi">
+				<Item Name="server.Parse Response (JSON).vi" Type="VI" URL="../server.Parse Response (JSON).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%8!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$ERB9F:*26=A28*S&lt;X)`!!!U1(!!(A!!)!R-6EJ44UYO&lt;(:M;7)23F.04C"/&gt;7RM,GRW9WRB=X-!!!B+5U^/)'^V&gt;!!!"!!!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!=1$$`````%F*F=X"P&lt;H.F)&amp;.U=GFO:S"*&lt;A!!6!$Q!!Q!!Q!%!!5!"A!'!!9!"A!'!!=!"A!)!!9$!!"Y!!!.#!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!!!!!!!!!1!*!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -212,7 +212,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
-				<Item Name="Parse Response (Numeric).vi" Type="VI" URL="../Parse Response (Numeric).vi">
+				<Item Name="server.Parse Response (Numeric).vi" Type="VI" URL="../server.Parse Response (Numeric).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$O!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$ERB9F:*26=A28*S&lt;X)`!!!,1!I!"8:B&lt;(6F!!1!!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!(%!Q`````R*3:8.Q&lt;WZT:3"4&gt;(*J&lt;G=A37Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"A!'!!9!"A!(!!9!#!!'!Q!!?!!!$1A!!!E!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!!!!!!!!!%!#1!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -221,7 +221,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
-				<Item Name="Parse Response (Array).vi" Type="VI" URL="../Parse Response (Array).vi">
+				<Item Name="server.Parse Response (Array).vi" Type="VI" URL="../server.Parse Response (Array).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%:!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$ERB9F:*26=A28*S&lt;X)`!!!W1(!!(A!!)1R-6EJ44UYO&lt;(:M;7)33F.04C""=H*B?3ZM&gt;G.M98.T!!J+5U^/)%&amp;S=G&amp;Z!!!%!!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!"R!-0````]35G6T='^O=W5A5X2S;7ZH)%FO!!"5!0!!$!!$!!1!"1!'!!9!"A!'!!9!"Q!'!!A!"A-!!(A!!!U)!!!*!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!!!!!!!!"!!E!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -230,7 +230,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
-				<Item Name="Parse Response (Boolean).vi" Type="VI" URL="../Parse Response (Boolean).vi">
+				<Item Name="server.Parse Response (Boolean).vi" Type="VI" URL="../server.Parse Response (Boolean).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$N!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$ERB9F:*26=A28*S&lt;X)`!!!+1#%&amp;&gt;G&amp;M&gt;75!"!!!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!=1$$`````%F*F=X"P&lt;H.F)&amp;.U=GFO:S"*&lt;A!!6!$Q!!Q!!Q!%!!5!"A!'!!9!"A!'!!=!"A!)!!9$!!"Y!!!.#!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!!!!!!!!!1!*!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -239,7 +239,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
-				<Item Name="Parse Response (Object).vi" Type="VI" URL="../Parse Response (Object).vi">
+				<Item Name="server.Parse Response (Object).vi" Type="VI" URL="../server.Parse Response (Object).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&lt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!B$ERB9F:*26=A28*S&lt;X)`!!!Y1(!!(A!!)AR-6EJ44UYO&lt;(:M;7)43F.04C"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!#EJ44UYA18*S98E!!!1!!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!(%!Q`````R*3:8.Q&lt;WZT:3"4&gt;(*J&lt;G=A37Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"A!'!!9!"A!(!!9!#!!'!Q!!?!!!$1A!!!E!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!!!!!!!!!%!#1!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -249,7 +249,7 @@
 					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
 			</Item>
-			<Item Name="Format LV Error as JSON Data.vi" Type="VI" URL="../Format LV Error as JSON Data.vi">
+			<Item Name="server.Format LV Error as JSON Data.vi" Type="VI" URL="../server.Format LV Error as JSON Data.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$R!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Z!=!!?!!!C$%R73F.04CZM&gt;GRJ9B.+5U^/)%^C;G6D&gt;#ZM&gt;G.M98.T!!!128*S&lt;X)A4W*K:7.U)%^V&gt;!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!1!"!!%!!1!"!!%!!1!"A!%!Q!!?!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!%!"Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -258,7 +258,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 			</Item>
-			<Item Name="Format Client Request.vi" Type="VI" URL="../Format Client Request.vi">
+			<Item Name="server.Format Client Request.vi" Type="VI" URL="../server.Format Client Request.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*6SKKA!!%!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">2</Property>
@@ -267,7 +267,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082929680</Property>
 			</Item>
-			<Item Name="Parse Response for Result or Error.vi" Type="VI" URL="../Parse Response for Result or Error.vi">
+			<Item Name="server.Parse Response for Result or Error.vi" Type="VI" URL="../server.Parse Response for Result or Error.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*P.:H$!!%!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -276,7 +276,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 			</Item>
-			<Item Name="Convert RPC Error to LabVIEW Error.vi" Type="VI" URL="../Convert RPC Error to LabVIEW Error.vi">
+			<Item Name="server.Convert RPC Error to LabVIEW Error.vi" Type="VI" URL="../server.Convert RPC Error to LabVIEW Error.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$E!!!!#!!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!1!#!!-*:8*S&lt;X)A&lt;X6U!$*!=!!?!!!A$%R73F.04CZM&gt;GRJ9B&amp;+5U^/)%ZV&lt;'QO&lt;(:D&lt;'&amp;T=Q!!"UJ44UYA;7Y!&amp;5!$!!Z35%-A28*S&lt;X)A1W^E:1!!6!$Q!!Q!!!!!!!1!!!!!!!!!!!!!!!!!"1!!!!9#!!"Y!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!!!!"!!!!!!!1!(!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -286,7 +286,7 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 			</Item>
 		</Item>
-		<Item Name="Flush Responses.vi" Type="VI" URL="../Flush Responses.vi">
+		<Item Name="server.Flush Responses.vi" Type="VI" URL="../server.Flush Responses.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%U!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"*+5U^/5F"$)&amp;.F=H:F=C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!.%"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!%5J44UZ35%-A5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -295,7 +295,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 		</Item>
-		<Item Name="Add Response.vi" Type="VI" URL="../Add Response.vi">
+		<Item Name="server.Add Response.vi" Type="VI" URL="../server.Add Response.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*6EH\5!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -304,7 +304,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
-		<Item Name="Check For Response.vi" Type="VI" URL="../Check For Response.vi">
+		<Item Name="server.Check For Response.vi" Type="VI" URL="../server.Check For Response.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#E!B"7:P&gt;7ZE!"B!-0````]0=G6T='^O=W5A=X2S;7ZH!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A&lt;X6U!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#7FE)&amp;.U=GFO:Q!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!=!#1!+!Q!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#1!!!!!!%!#Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -313,7 +313,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1073742352</Property>
 		</Item>
-		<Item Name="Check Server Status.vi" Type="VI" URL="../Check Server Status.vi">
+		<Item Name="server.Check Server Status.vi" Type="VI" URL="../server.Check Server Status.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%[!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!)1^4:8*W:8)A5H6O&lt;GFO:T]!,E"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!#V*F=86F=X1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!#F*F=86F=X1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -322,7 +322,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
-		<Item Name="Close Server Reference.vi" Type="VI" URL="../Close Server Reference.vi">
+		<Item Name="server.Close Server Reference.vi" Type="VI" URL="../server.Close Server Reference.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$J!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,%"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!#6.F=H:F=C"J&lt;A"5!0!!$!!$!!1!"!!%!!1!"!!%!!1!"1!%!!1!"A-!!(A!!!U)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!E!!!!!!"!!=!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -331,7 +331,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139152</Property>
 		</Item>
-		<Item Name="Get or Create Server Reference.vi" Type="VI" URL="../Get or Create Server Reference.vi">
+		<Item Name="server.Get or Create Server Reference.vi" Type="VI" URL="../server.Get or Create Server Reference.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$L!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!J4:8*W:8)A4X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!%!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!!!!!!!!%!"Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -340,7 +340,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139154</Property>
 		</Item>
-		<Item Name="Send Request.vi" Type="VI" URL="../Send Request.vi">
+		<Item Name="server.Send Request.vi" Type="VI" URL="../server.Send Request.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*6J$.+!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -349,7 +349,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 		</Item>
-		<Item Name="Wait for Request.vi" Type="VI" URL="../Wait for Request.vi">
+		<Item Name="server.Wait for Request.vi" Type="VI" URL="../server.Wait for Request.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#H2J&lt;76E)'^V&gt;$]!!#*!=!!?!!!2$V*F=86F=X1O&lt;(:D&lt;'&amp;T=Q!(5G6R&gt;76T&gt;!!O1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!+5W6S&gt;G6S)'^V&gt;!!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'5!$!".U;7VF&lt;X6U)'FO)'VT)#AR-$!J!#R!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!F4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!(!!I$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!)!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -358,7 +358,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
-		<Item Name="Wait for Response.vi" Type="VI" URL="../Wait for Response.vi">
+		<Item Name="server.Wait for Response.vi" Type="VI" URL="../server.Wait for Response.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;K!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!-0````]53F.04C"3:8.Q&lt;WZT:3"4&gt;(*J&lt;G=!!$:!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"*+5U^/5F"$)&amp;.F=H:F=C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%U!$!!R5;7VF&lt;X6U)#AN-3E!!"*!-0````]*;71A5X2S;7ZH!$2!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"&amp;+5U^/5F"$)&amp;.F=H:F=C"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!)!!E!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!)1!!!!EA!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -369,7 +369,7 @@
 		</Item>
 	</Item>
 	<Item Name="RPC Server Example" Type="Folder">
-		<Item Name="RPC Server Template.vi" Type="VI" URL="../RPC Server Template.vi">
+		<Item Name="server.RPC Server Template.vi" Type="VI" URL="../server.RPC Server Template.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -378,7 +378,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
-		<Item Name="Send Shutdown Command.vi" Type="VI" URL="../Send Shutdown Command.vi">
+		<Item Name="server.Send Shutdown Command.vi" Type="VI" URL="../server.Send Shutdown Command.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#^!!!!"Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!1$!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!!!1!'!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -387,7 +387,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
-		<Item Name="Run VI from Methods Folder.vi" Type="VI" URL="../Run VI from Methods Folder.vi">
+		<Item Name="server.Run VI from Methods Folder.vi" Type="VI" URL="../server.Run VI from Methods Folder.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"*+5U^/5F"$)&amp;.F=H:F=C"P&gt;81!!#*!=!!?!!!2$V*F=86F=X1O&lt;(:D&lt;'&amp;T=Q!(5G6R&gt;76T&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$*!=!!?!!!A$%R73F.04CZM&gt;GRJ9B&amp;+5U^/)%ZV&lt;'QO&lt;(:D&lt;'&amp;T=Q!!"H"B=G&amp;N=Q!!%%!Q`````Q:4&gt;(*J&lt;G=!!$2!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"&amp;+5U^/5F"$)&amp;.F=H:F=C"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!9!"Q!)!!E!#A-!!(A!!!E!!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!)!!!!#A!!!!A!!!))!!!!#!!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -399,7 +399,7 @@
 	</Item>
 	<Item Name="Send Request VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Send Request (Sync).vi" Type="VI" URL="../Send Request (Sync).vi">
+		<Item Name="server.Send Request (Sync).vi" Type="VI" URL="../server.Send Request (Sync).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!-0````]53F.04C"3:8.Q&lt;WZT:3"4&gt;(*J&lt;G=!!$:!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"*+5U^/5F"$)&amp;.F=H:F=C"P&gt;81!!".!!Q!-6'FN:7^V&gt;#!I,4%J!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"R!-0````]43F.04C"3:8&amp;V:8.U)&amp;.U=GFO:Q!U1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!23F.04F*11S"4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!5!"A!%!!1!"Q!%!!A!"!!*!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -408,7 +408,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
-		<Item Name="Send Request (Batch Sync).vi" Type="VI" URL="../Send Request (Batch Sync).vi">
+		<Item Name="server.Send Request (Batch Sync).vi" Type="VI" URL="../server.Send Request (Batch Sync).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!($!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!-0````]53F.04C"3:8.Q&lt;WZT:3"4&gt;(*J&lt;G=!!#*!1!!"`````Q!&amp;&amp;%J44UYA5G6T='^O=W5A5X2S;7ZH!!!W1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!33F.04F*11S"4:8*W:8)A&lt;X6U!!!41!-!$&amp;2J&lt;76P&gt;81A+#UR+1!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!=1$$`````%UJ44UYA5G6R&gt;76T&gt;#"4&gt;(*J&lt;G=!)%"!!!(`````!!I43F.04C"3:8&amp;V:8.U)&amp;.U=GFO:Q!U1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!23F.04F*11S"4:8*W:8)A;7Y!91$Q!!Q!!Q!%!!9!"Q!%!!1!#!!%!!E!"!!,!!Q$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -417,7 +417,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
-		<Item Name="Send Request (Async).vi" Type="VI" URL="../Send Request (Async).vi">
+		<Item Name="server.Send Request (Async).vi" Type="VI" URL="../server.Send Request (Async).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;E!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%E!B$7ZP&gt;'FG;7.B&gt;'FP&lt;D]!%E!Q`````QBJ:#"W97RV:1!!,E"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!#F.F=H:F=C"P&gt;81!!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"R!-0````]43F.04C"3:8&amp;V:8.U)&amp;.U=GFO:Q!M1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!*5W6S&gt;G6S)'FO!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!=!#1!+!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -426,7 +426,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
-		<Item Name="Send Request (Batch Async).vi" Type="VI" URL="../Send Request (Batch Async).vi">
+		<Item Name="server.Send Request (Batch Async).vi" Type="VI" URL="../server.Send Request (Batch Async).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'U!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%E!B$7ZP&gt;'FG;7.B&gt;'FP&lt;D]!'E"!!!(`````!!1.&lt;G^U;7:J9W&amp;U;7^O0Q!31$$`````#'FE)(:B&lt;(6F!!!71%!!!@````]!"ABJ:#"W97RV:1!!,E"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!#F.F=H:F=C"P&gt;81!!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"R!-0````]43F.04C"3:8&amp;V:8.U)&amp;.U=GFO:Q!A1%!!!@````]!#R.+5U^/)&amp;*F=86F=X1A5X2S;7ZH!#R!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!!F4:8*W:8)A;7Y!91$Q!!Q!!Q!&amp;!!=!#!!*!!E!#1!*!!I!#1!-!!U$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!#%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -438,7 +438,7 @@
 	</Item>
 	<Item Name="Format Client Request VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Format Client Request (Numeric).vi" Type="VI" URL="../Format Client Request (Numeric).vi">
+		<Item Name="server.Format Client Request (Numeric).vi" Type="VI" URL="../server.Format Client Request (Numeric).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%C!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/5G6R&gt;76T&gt;#"4&gt;(*J&lt;G=!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#5!$!!*J:!!!.%"Q!"Y!!#)-4&amp;:+5U^/,GRW&lt;'FC%UJ44UYA4W*K:7.U,GRW9WRB=X-!!!:Q98*B&lt;8-!!""!-0````]'&lt;76U;'^E!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"A!(!!A!#1-!!(A!!!U)!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!)!!!#%!!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -447,7 +447,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1116209680</Property>
 		</Item>
-		<Item Name="Format Client Request (Internal).vi" Type="VI" URL="../Format Client Request (Internal).vi">
+		<Item Name="server.Format Client Request (Internal).vi" Type="VI" URL="../server.Format Client Request (Internal).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%\!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!C$%R73F.04CZM&gt;GRJ9B.+5U^/)%^C;G6D&gt;#ZM&gt;G.M98.T!!!03F.04C"09GJF9X1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-E"Q!"Y!!#!-4&amp;:+5U^/,GRW&lt;'FC%5J44UYA4H6M&lt;#ZM&gt;G.M98.T!!!'='&amp;S97VT!!!11$$`````"GVF&gt;'BP:!!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!1$!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!!!!!!!!!1!*!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -456,7 +456,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 		</Item>
-		<Item Name="Format Client Request (Notification).vi" Type="VI" URL="../Format Client Request (Notification).vi">
+		<Item Name="server.Format Client Request (Notification).vi" Type="VI" URL="../server.Format Client Request (Notification).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%D!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/5G6R&gt;76T&gt;#"4&gt;(*J&lt;G=!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!Q`````Q*J:!!!-E"Q!"Y!!#!-4&amp;:+5U^/,GRW&lt;'FC%5J44UYA4H6M&lt;#ZM&gt;G.M98.T!!!(3F.04C"J&lt;A!11$$`````"GVF&gt;'BP:!!!6!$Q!!Q!!Q!%!!5!"!!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!#!!!!B!!!!!!!1!+!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -465,7 +465,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 		</Item>
-		<Item Name="Format Client Request (String).vi" Type="VI" URL="../Format Client Request (String).vi">
+		<Item Name="server.Format Client Request (String).vi" Type="VI" URL="../server.Format Client Request (String).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%F!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/5G6R&gt;76T&gt;#"4&gt;(*J&lt;G=!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!Q`````Q*J:!!!.%"Q!"Y!!#)-4&amp;:+5U^/,GRW&lt;'FC%UJ44UYA4W*K:7.U,GRW9WRB=X-!!!:Q98*B&lt;8-!!""!-0````]'&lt;76U;'^E!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"A!(!!A!#1-!!(A!!!U)!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!B!!!!!)!!!#%!!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -474,7 +474,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
-		<Item Name="Format Client Request (Auto-Increment).vi" Type="VI" URL="../Format Client Request (Auto-Increment).vi">
+		<Item Name="server.Format Client Request (Auto-Increment).vi" Type="VI" URL="../server.Format Client Request (Auto-Increment).vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%P!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/5G6R&gt;76T&gt;#"4&gt;(*J&lt;G=!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'%!Q`````QZJ&lt;GFU;7&amp;M)(.U=GFO:Q!!-E"Q!"Y!!#!-4&amp;:+5U^/,GRW&lt;'FC%5J44UYA4H6M&lt;#ZM&gt;G.M98.T!!!(3F.04C"J&lt;A!11$$`````"GVF&gt;'BP:!!!6!$Q!!Q!!Q!%!!5!"!!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!)!!!!#!!!!B!!!!!!!1!+!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -488,7 +488,7 @@
 		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Request Queue</Property>
 		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Request Queue</Property>
 		<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-		<Item Name="Get Request Queue.vi" Type="VI" URL="../Get Request Queue.vi">
+		<Item Name="server.Get Request Queue.vi" Type="VI" URL="../server.Get Request Queue.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;J!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!2$V*F=86F=X1O&lt;(:D&lt;'&amp;T=Q!05G6R&gt;76T&gt;#ZM&gt;G.M98.T!"B!=!!3!!%!"1V3:8&amp;V:8.U)&amp;&amp;V:86F!$:!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"*+5U^/5F"$)&amp;.F=H:F=C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!.%"Q!"Y!!"A73F.04F*11S"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!%5J44UZ35%-A5W6S&gt;G6S)'FO!&amp;1!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!"!!*!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#1!!!!!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -502,7 +502,7 @@
 		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Response Tree</Property>
 		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Response Tree</Property>
 		<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-		<Item Name="Get Response Tree.vi" Type="VI" URL="../Get Response Tree.vi">
+		<Item Name="server.Get Response Tree.vi" Type="VI" URL="../server.Get Response Tree.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;'!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!1!5Q!&lt;1(!!)!!"!!5!$F*F=X"P&lt;H.F)&amp;&amp;V:86F!!!W1(!!(A!!'":+5U^/5F"$)&amp;.F=H:F=CZM&gt;G.M98.T!!!33F.04F*11S"4:8*W:8)A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$2!=!!?!!!9&amp;EJ44UZ35%-A5W6S&gt;G6S,GRW9WRB=X-!!"&amp;+5U^/5F"$)&amp;.F=H:F=C"J&lt;A"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!E!!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
@@ -512,7 +512,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 	</Item>
-	<Item Name="Server Data FGV.vi" Type="VI" URL="../Server Data FGV.vi">
+	<Item Name="server.Server Data FGV.vi" Type="VI" URL="../server.Server Data FGV.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;8!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!"4!"F!=!!A!!%!"!!.5G6T='^O=W6T)&amp;*F:A!%!!!!+E"Q!"Y!!"%05G6R&gt;76T&gt;#ZM&gt;G.M98.T!!^3:8&amp;V:8.U,GRW9WRB=X-!'%"Q!")!!1!($6*F=86F=X1A586F&gt;75!&amp;%!B$F.F=H:F=C"3&gt;7ZO;7ZH!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#&gt;!&amp;A!$#EFO;82J97RJ?G5&amp;1WBF9WM&amp;1WRP=W5!!!:"9X2J&lt;WY!!&amp;1!]!!-!!-!"1!'!!A!#1!'!!9!"A!+!!9!#Q!'!Q!!?!!!$1A!!!E!!!!!!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!!!!!!!!!%!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
