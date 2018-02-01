@@ -15,7 +15,7 @@
 			<Item Name="error.lvclass" Type="LVClass" URL="../Classes/error/error.lvclass"/>
 			<Item Name="id.lvclass" Type="LVClass" URL="../Classes/id/id.lvclass"/>
 			<Item Name="params.lvclass" Type="LVClass" URL="../Classes/params/params.lvclass"/>
-			<Item Name="result.lvclass" Type="LVClass" URL="../Classes/New folder/result.lvclass"/>
+			<Item Name="result.lvclass" Type="LVClass" URL="../Classes/result/result.lvclass"/>
 			<Item Name="Request.lvclass" Type="LVClass" URL="../Classes/Request/Request.lvclass"/>
 			<Item Name="Response.lvclass" Type="LVClass" URL="../Classes/Response/Response.lvclass"/>
 		</Item>
@@ -25,6 +25,7 @@
 		<Item Name="RPC Method Template.vit" Type="VI" URL="../RPC Method Template.vit"/>
 		<Item Name="JSONRPC Server.lvclass" Type="LVClass" URL="../Classes/Server/JSONRPC Server.lvclass"/>
 		<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
+		<Item Name="JSONRPC Client.lvclass" Type="LVClass" URL="../Classes/Client/JSONRPC Client.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
