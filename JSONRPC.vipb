@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2018-05-23 14:31:25" Creator="Tanner Blair" Comments="" ID="6e67440453d2a57c06c65f9e28ec1f0c">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2018-05-23 14:46:50" Creator="Tanner Blair" Comments="" ID="805a8021c9eca5f0ae56e5c0ee952eb4">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_JSONRPC</Package_File_Name>
-    <Library_Version>2.1.0.42</Library_Version>
+    <Library_Version>2.2.0.43</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -34,9 +34,13 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>!!!Breaking Change!!!
+      <Release_Notes>v2.2.0: 
 
-Refactored to be static, and use the static implementation for JSON Support for LabVIEW</Release_Notes>
+Refactored palletes
+improved template
+added method loading API
+added global stop
+improved icons</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -290,7 +294,7 @@ Refactored to be static, and use the static implementation for JSON Support for 
         <Path>Source\Client</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E974C56D1550CD69DA0A61D4CFC7DCE2</GUID>
+      <GUID>1A49017BD8FDE9928FF75F0B036AAC96</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -339,7 +343,7 @@ Refactored to be static, and use the static implementation for JSON Support for 
         <Path>Source\Classes\Client\Format Client Request.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>14BB95AD3F1D4B597E36F3C0FBE5931A</GUID>
+      <GUID>8DB6FA4848BD8E5E24F015AA299AB884</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -472,7 +476,7 @@ Refactored to be static, and use the static implementation for JSON Support for 
         <Path>Source\Classes\Server\Check RPC Engine Loop Stop Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2CB31E6E0E506072D653AFDE27131501</GUID>
+      <GUID>C88DE46DB55F96E17682E251AC7AA4CD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -549,7 +553,7 @@ Refactored to be static, and use the static implementation for JSON Support for 
         <Path>Source\Classes\Method Manager\close methods.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F7C16B0C2E829E17C656A38A59D1EC7D</GUID>
+      <GUID>0D979903C8CAA5D502E8EAAED32E3D2E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -626,7 +630,7 @@ Refactored to be static, and use the static implementation for JSON Support for 
         <Path>Source\Classes\Server\Wait for Response.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FD0CDEBD98C32CD8165F26210AA1F78B</GUID>
+      <GUID>4DA85E9D298B09F284DDAC91BEA4C0F5</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
