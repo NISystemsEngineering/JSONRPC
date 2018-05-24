@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2018-05-23 14:46:50" Creator="Tanner Blair" Comments="" ID="805a8021c9eca5f0ae56e5c0ee952eb4">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-05 11:12:01" Modified_Date="2018-05-24 10:26:28" Creator="Tanner Blair" Comments="" ID="b5255574c289e046ec85df12e47f926a">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_JSONRPC</Package_File_Name>
-    <Library_Version>2.2.0.43</Library_Version>
+    <Library_Version>2.3.0.44</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -294,7 +294,7 @@ improved icons</Release_Notes>
         <Path>Source\Client</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1A49017BD8FDE9928FF75F0B036AAC96</GUID>
+      <GUID>1D4A1C5C9C8BA095163A721C5FAA8B48</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -343,7 +343,7 @@ improved icons</Release_Notes>
         <Path>Source\Classes\Client\Format Client Request.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8DB6FA4848BD8E5E24F015AA299AB884</GUID>
+      <GUID>ADC4834E7643F8A472843574599DFE9A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -476,7 +476,7 @@ improved icons</Release_Notes>
         <Path>Source\Classes\Server\Check RPC Engine Loop Stop Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C88DE46DB55F96E17682E251AC7AA4CD</GUID>
+      <GUID>E8F4F4AC152F6A6E3830807F4085B448</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -553,7 +553,7 @@ improved icons</Release_Notes>
         <Path>Source\Classes\Method Manager\close methods.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0D979903C8CAA5D502E8EAAED32E3D2E</GUID>
+      <GUID>54D6234F56B6593C5B95E65E6EF8C016</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -630,7 +630,7 @@ improved icons</Release_Notes>
         <Path>Source\Classes\Server\Wait for Response.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4DA85E9D298B09F284DDAC91BEA4C0F5</GUID>
+      <GUID>11C7708A33603EC9315EF9DF40B4C198</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
