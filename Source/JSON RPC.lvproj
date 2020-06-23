@@ -20,8 +20,10 @@
 			<Item Name="Response.lvclass" Type="LVClass" URL="../Classes/Response/Response.lvclass"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
-			<Item Name="Server Stop Notifier Tests.lvclass" Type="LVClass" URL="../Tests/Server Stop Notifier Tests/Server Stop Notifier Tests.lvclass"/>
-			<Item Name="JSONAble Tests.lvclass" Type="LVClass" URL="../Tests/JSONable Tests/JSONAble Tests/JSONAble Tests.lvclass"/>
+			<Item Name="api" Type="Folder">
+				<Item Name="subtract.vi" Type="VI" URL="../Tests/ServerTest/test methods/subtract.vi"/>
+			</Item>
+			<Item Name="ServerTest.lvclass" Type="LVClass" URL="../Tests/ServerTest/ServerTest.lvclass"/>
 		</Item>
 		<Item Name="RPC Method Template.vit" Type="VI" URL="../RPC Method Template.vit"/>
 		<Item Name="JSONRPC Server.lvclass" Type="LVClass" URL="../Classes/Server/JSONRPC Server.lvclass"/>
