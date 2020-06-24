@@ -15,9 +15,7 @@
 			<Item Name="error.lvclass" Type="LVClass" URL="../Classes/error/error.lvclass"/>
 			<Item Name="id.lvclass" Type="LVClass" URL="../Classes/id/id.lvclass"/>
 			<Item Name="params.lvclass" Type="LVClass" URL="../Classes/params/params.lvclass"/>
-			<Item Name="result.lvclass" Type="LVClass" URL="../Classes/result/result.lvclass"/>
 			<Item Name="Request.lvclass" Type="LVClass" URL="../Classes/Request/Request.lvclass"/>
-			<Item Name="Response.lvclass" Type="LVClass" URL="../Classes/Response/Response.lvclass"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="api" Type="Folder">
