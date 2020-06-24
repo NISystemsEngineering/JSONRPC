@@ -11,12 +11,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Classes" Type="Folder">
-			<Item Name="error.lvclass" Type="LVClass" URL="../Classes/error/error.lvclass"/>
-			<Item Name="id.lvclass" Type="LVClass" URL="../Classes/id/id.lvclass"/>
-			<Item Name="params.lvclass" Type="LVClass" URL="../Classes/params/params.lvclass"/>
-			<Item Name="Request.lvclass" Type="LVClass" URL="../Classes/Request/Request.lvclass"/>
-		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="api" Type="Folder">
 				<Item Name="subtract.vi" Type="VI" URL="../Tests/ServerTest/test methods/subtract.vi"/>
