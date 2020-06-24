@@ -12,12 +12,19 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
-			<Item Name="api" Type="Folder">
+			<Item Name="test methods" Type="Folder">
 				<Item Name="subtract.vi" Type="VI" URL="../Tests/ServerTest/test methods/subtract.vi"/>
+				<Item Name="invalid application error.vi" Type="VI" URL="../Tests/ServerTest/test methods/invalid application error.vi"/>
+				<Item Name="application error.vi" Type="VI" URL="../Tests/ServerTest/test methods/application error.vi"/>
+				<Item Name="invalid implementation error.vi" Type="VI" URL="../Tests/ServerTest/test methods/invalid implementation error.vi"/>
+				<Item Name="implementation error.vi" Type="VI" URL="../Tests/ServerTest/test methods/implementation error.vi"/>
 			</Item>
 			<Item Name="ServerTest.lvclass" Type="LVClass" URL="../Tests/ServerTest/ServerTest.lvclass"/>
 		</Item>
-		<Item Name="RPC Method Template.vit" Type="VI" URL="../RPC Method Template.vit"/>
+		<Item Name="User VI Methods" Type="Folder">
+			<Item Name="Server Errors.vi" Type="VI" URL="../Classes/Server/Server Errors.vi"/>
+			<Item Name="RPC Method Template.vit" Type="VI" URL="../RPC Method Template.vit"/>
+		</Item>
 		<Item Name="JSONRPC Server.lvclass" Type="LVClass" URL="../Classes/Server/JSONRPC Server.lvclass"/>
 		<Item Name="JSONRPC Client.lvclass" Type="LVClass" URL="../Classes/Client/JSONRPC Client.lvclass"/>
 		<Item Name="Method Loader.lvclass" Type="LVClass" URL="../Classes/Method Loader/Method Loader.lvclass"/>
